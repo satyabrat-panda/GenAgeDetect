@@ -9,7 +9,9 @@ Welcome to the **Age & Gender Detection App**! This project uses **deep learning
 
 > 🔍 Upload an image, turn on your webcam, or drop a video file — and let the model do the rest!
 
+**User Interface**
 ![Preview](image.png)
+**Webcam Feed**
 ![WebCam](image-1.png)
 ---
 
@@ -101,7 +103,7 @@ Once launched, your default browser will open with the app running at `http://lo
 ## 👤 Author
 
 **Satyabrat Panda**  
-📧 *[Satyabrat6104@gmail.com]*  
+📧 *[Satyabrat61204@gmail.com]*  
 🔗 [LinkedIn](https://www.linkedin.com/in/satyabrat-panda-2538b62b8/) | [GitHub](https://github.com/satyabrat-panda)
 
 ---
