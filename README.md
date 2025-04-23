@@ -101,7 +101,7 @@ Once launched, your default browser will open with the app running at `http://lo
 ## 👤 Author
 
 **Satyabrat Panda**  
-📧 *[your.email@example.com]*  
+📧 *[Satyabrat6104@gmail.com]*  
 🔗 [LinkedIn](https://www.linkedin.com/in/satyabrat-panda-2538b62b8/) | [GitHub](https://github.com/satyabrat-panda)
 
 ---
